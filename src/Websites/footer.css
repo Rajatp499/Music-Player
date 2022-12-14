@@ -1,0 +1,66 @@
+.body_footer{
+    background-color: #20232a;
+    width:100%;
+    height:100vh;
+    /* margin-left:10vh; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container1_footer{
+    /* height: 100%; */
+    width:38vh;
+    /* margin-left:4vh; */
+    color:white;
+    padding:30px;
+    opacity: 0.5;
+    display: inline-block;
+
+}
+.icon_hexagon_footer{
+    /* margin-top:10vh; */
+    font-size: 50px;
+    margin-top:4px;
+}
+.inline_footer{
+    /* margin-top:-2px; */
+    margin-left:4px;
+    display: inline-block;
+}
+.container2_footer{
+    display: inline-block;
+    height:100%; 
+     width:40vh;
+     margin-top:10vh;
+}
+.container2_ul_footer{
+    /* text-decoration: none; */
+    /* list-style: none; */
+    list-style-type: none;
+    /* float:right; */
+    text-align: right;
+    /* line-height: 0px; */
+}
+
+.container3_ul_footer{
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+    /* line-height: 0px; */
+}
+li{
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left;
+}
+.list_heading_footer{
+    font-size:22px;
+    font-weight: 700;
+    color:#999999;
+    line-height: 20px;
+    /* cursor:wait; */
+}
+.list_heading_footer:hover{
+    color:#999999;
+    cursor: auto;
+}

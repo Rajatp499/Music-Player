@@ -1,0 +1,9 @@
+.body_4{
+    width:100%;
+    height:18vh;
+    background-color: #282c34;
+
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}

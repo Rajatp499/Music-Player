@@ -1,0 +1,91 @@
+.Review_body{
+
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+    height:100vh;
+    min-width:100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    flex-direction: column;
+
+
+}
+.Review_title{
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 40px;
+    color: #102a42;
+    line-height: 40px;
+    /* text-decoration-color: lightblue; */
+
+
+}
+u{
+    text-decoration-color: lightblue;
+}
+
+.Review_box{
+    padding:20px;
+    height:60vh;
+    width:90vh;
+    background-color: white;
+    box-shadow:0 5px 15px rgb(0 0 0 / 50%);
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* .Review_image{
+    margin-left: auto;
+    margin-right:auto ;
+} */
+.Review_img{
+    /* box-shadow: 30px 10px 0px 0px #49a6e9; */
+    /* box-shadow:  5px 15px rgb(0 0 0 / 50%); */
+}
+
+.Review_name{
+    font-size:16px;
+    line-height: 18px;
+    font-weight: 700;
+    color:#102a42;
+}
+.Review_post{
+    font-weight: 400;
+    font-size:14px ;
+    line-height: 20px;
+    color:#49a6e9;
+    margin: 10px;
+}
+.Review_review{
+    margin-left:40px;
+    margin-right: 40px;
+    text-align: center;
+    font-weight: 400;
+    font-size:16px ;
+    color:#617d98;
+    line-height: 24px;
+}
+.Review_btn{
+    margin:20px;
+}
+.Suprise_me{
+    font-weight: 400;
+    font-size:16px ;
+    color:#49a6e9;
+    line-height: 24px;   
+}
+button{
+    margin-top:20px;
+    border:none;
+    background-color: white;
+    margin-left:10px;
+    color:#49a6e9;
+    font-size:18px;
+    cursor: pointer;
+}

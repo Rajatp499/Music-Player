@@ -1,0 +1,25 @@
+.body{
+    /* font-family: 'Zen Kaku Gothic Antique', sans-serif;       margin-top:28px; */
+    padding:0;
+    margin:0;
+    height:100vh;
+    width:100%;
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    align-items: center;
+
+}
+.container_input{
+    background-color: red;
+    /* display: flex;
+    flex-direction: column; */
+    height:70vh;
+    width:50rem;
+}
+img{
+    height:70vh;
+    width:50rem;
+}
+

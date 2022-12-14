@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* animation:motion 3s linear infinite alternate-reverse; */
+    animation: MoveUpDown 1.8s linear infinite alternate;
+}
+.image{
+    position: relative;
+    /* top:10%; */
+}
+@keyframes MoveUpDown {
+    from {
+       bottom:0px;
+    }
+    to { 
+        bottom: 20px;
+    }
+}

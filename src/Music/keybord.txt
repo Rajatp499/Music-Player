@@ -1,0 +1,41 @@
+  // window.addEventListener(
+  //   "keyup",
+  //   (key = (event) => {
+  //     // event.preventDefault();
+  //     if (event.code == "Space") {
+  //       console.log("pressed");
+  //       const audio = document.querySelector("audio");
+  //       if (audio.paused) {
+  //         audio.play();
+  //       } else {
+  //         audio.pause();
+  //       }
+  //       const play = document.querySelector(".play");
+  //       const play2 = document.querySelector(".play2");
+  //       if (play.style.display == "none") {
+  //         play.style.display = "block";
+  //         play2.style.display = "none";
+  //       } else {
+  //         play.style.display = "none";
+  //         play2.style.display = "block";
+  //       }
+  // window.removeEventListener("keyup", key);
+  // window.addEventListener("keyup",key);
+  // }
+  //     else if (event.code == "ArrowRight") {
+  //       console.log("left");
+  //       fnforward();
+  //       window.removeEventListener("keyup", key);
+  //       window.addEventListener("keyup",key);
+  //     } else if (event.code == "ArrowLeft") {
+  //       console.log("right");
+  //       fnbackward();
+  //       window.removeEventListener("keyup", key);
+  //       window.addEventListener("keyup",key);
+  //     }
+  // window.removeEventListener("keyup",key);
+  // window.addEventListener("keyup",key);
+
+  //   })
+
+  // );

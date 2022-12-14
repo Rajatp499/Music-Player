@@ -1,0 +1,57 @@
+.body{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 100vh;
+    margin:0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    position: relative;
+    background-color: black;
+    border:4px solid black;
+    height:22vh;
+    width:9rem;
+    outline:0;
+    color:white;
+    overflow: hidden;
+
+}
+.container::before{
+    content:"R";
+    height:100%;
+    /* color:black; */
+    width:100%;
+    font-family: 'Dancing Script', cursive;
+    /* color: white; */
+    font-size: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.container::after{
+    content:"";
+    background-color: whitesmoke;
+    height: 170%;
+    width:210%;
+    position: absolute;
+    right: -80px;
+    bottom: -20px;
+    border-radius: 38%;
+    animation: animation ease-in-out forwards 10s alternate;
+}
+
+
+@keyframes animation{
+    0%{
+        transform:translateY(0) rotate(0deg);
+    }
+    100%{
+        transform:translateY(-100%) rotate(195deg);
+    }
+}
