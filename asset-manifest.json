@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Music-Player/static/css/main.59dc81e4.css",
+    "main.js": "/Music-Player/static/js/main.aa29b5ef.js",
+    "static/media/careless.mp3": "/Music-Player/static/media/careless.469f5583b0a58ef7bd62.mp3",
+    "static/media/life_hates_us_now.mp3": "/Music-Player/static/media/life_hates_us_now.82df2b0ab17fa1df9a71.mp3",
+    "static/media/Red_Swan.mp3": "/Music-Player/static/media/Red_Swan.3c97e2d4a26ff5157962.mp3",
+    "static/media/never.mp3": "/Music-Player/static/media/never.fdd244c3b7efb4588cb2.mp3",
+    "static/media/Beleive.mp3": "/Music-Player/static/media/Beleive.e5c1131c220aa73014ce.mp3",
+    "static/media/Harehare_Ya.mp3": "/Music-Player/static/media/Harehare_Ya.190bae3e8ad4cd5fc419.mp3",
+    "static/media/y.mp3": "/Music-Player/static/media/y.802696d4ba02d9d69522.mp3",
+    "static/media/Nothing_Stopping_Me.mp3": "/Music-Player/static/media/Nothing_Stopping_Me.84b1184ac2b0efadd1ca.mp3",
+    "static/media/Believe.jpg": "/Music-Player/static/media/Believe.89f2e0532a4cc5dc7d0e.jpg",
+    "static/media/yourebeautiful.jpg": "/Music-Player/static/media/yourebeautiful.0522178d8181fe3d6553.jpg",
+    "static/media/CarelessWhisper.jpg": "/Music-Player/static/media/CarelessWhisper.53160912da383be3cb11.jpg",
+    "static/media/luffy.jfif": "/Music-Player/static/media/luffy.3125218f51d868b9071b.jfif",
+    "static/media/harehare_ya.jfif": "/Music-Player/static/media/harehare_ya.e0d2d60efcaebbde2bd4.jfif",
+    "static/media/life_hates_us_now.jfif": "/Music-Player/static/media/life_hates_us_now.48f3e542c465d1e424a3.jfif",
+    "index.html": "/Music-Player/index.html",
+    "main.59dc81e4.css.map": "/Music-Player/static/css/main.59dc81e4.css.map",
+    "main.aa29b5ef.js.map": "/Music-Player/static/js/main.aa29b5ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59dc81e4.css",
+    "static/js/main.aa29b5ef.js"
+  ]
+}
